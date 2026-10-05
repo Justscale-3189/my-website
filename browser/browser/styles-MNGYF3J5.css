@@ -1,1 +1,0 @@
-body{margin:0}a{color:var(--color-accent-700)}a:hover{color:var(--color-accent-800)}@keyframes jsSweep{0%{transform:translate(-100%)}to{transform:translate(220%)}}@keyframes jsDrawX{0%{transform:scaleX(0)}to{transform:scaleX(1)}}@keyframes jsTicker{0%{transform:translate(0)}to{transform:translate(-50%)}}
